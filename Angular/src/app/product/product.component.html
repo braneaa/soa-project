@@ -1,0 +1,25 @@
+<div class ="container">
+    <div class = "card">
+        <h3 class="text-center"> Users List</h3>
+        <div class = "card-body">
+            <table class="table table-striped">
+                <thead>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th> Description</th>
+                    <th> price</th>
+                    <th> Category </th>
+                </thead>
+                <tbody>
+                    <tr *ngFor = "let product of products">
+                        <td> {{ product.id}}</td>
+                        <td> {{ product.title}}</td>
+                        <td> {{ product.description}}</td>
+                        <td> {{ product.price}}</td>
+                        <td> {{ product.category}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
