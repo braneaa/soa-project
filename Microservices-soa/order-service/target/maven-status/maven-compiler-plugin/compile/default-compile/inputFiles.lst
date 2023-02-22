@@ -1,0 +1,11 @@
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\dto\OrderRequest.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\event\OrderPlacedEvent.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\model\Order.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\dto\InventoryResponse.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\dto\OrderLineItemsDto.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\config\WebClientConfiguration.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\service\OrderService.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\repository\OrderRepository.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\OrderServiceApplication.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\controller\OrderController.java
+C:\fac\Microservices-soa\order-service\src\main\java\com\soa\orderservice\model\OrderLineItems.java

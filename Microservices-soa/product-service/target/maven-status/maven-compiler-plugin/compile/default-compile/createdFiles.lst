@@ -1,0 +1,10 @@
+com\soa\productservice\ProductServiceApplication.class
+com\soa\productservice\controller\ProductController.class
+com\soa\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\soa\productservice\model\Product$ProductBuilder.class
+com\soa\productservice\repository\ProductRepository.class
+com\soa\productservice\service\ProductService.class
+com\soa\productservice\dto\ProductRequest.class
+com\soa\productservice\dto\ProductResponse.class
+com\soa\productservice\model\Product.class
+com\soa\productservice\dto\ProductResponse$ProductResponseBuilder.class
